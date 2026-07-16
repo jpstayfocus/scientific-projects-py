@@ -2,9 +2,7 @@
 
 ### scientific python and mathematics projects
 
-- Calculus I
-- Calculus II
-- Calculus III
+- Calculus 
 - Vectors
 - Linear Algebra
 - Scientific Python Programming
