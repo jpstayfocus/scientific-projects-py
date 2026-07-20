@@ -1,8 +1,8 @@
+# Scientific Python Projects
 
+A collection of Python projects covering scientific computing and related topics.
 
-### scientific python  projects
+## Projects
 
-Scientific Python Programming
-
-- project[1] - text seearch and replace
-- project[2] - law of large number
+- **Project 1:** Text Search and Replace
+- **Project 2:** Law of Large Numbers
