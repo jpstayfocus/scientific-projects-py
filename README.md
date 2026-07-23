@@ -1,6 +1,6 @@
 # Scientific Projects in Python
 
-A portfolio of hands-on notebooks exploring scientific computing, applied mathematics, probability, statistics, machine learning, signal processing, computational neuroscience, and scientific visualization.
+A collection of hands-on Python notebooks exploring scientific computing through applied mathematics, probability, statistics, machine learning, signal processing, computational neuroscience, and scientific visualization.
 
 The notebooks emphasize learning through implementation: simulating data, deriving or coding algorithms, testing scientific ideas, and visualizing the results with Python.
 
@@ -8,7 +8,7 @@ The notebooks emphasize learning through implementation: simulating data, derivi
   <img src="animations/MobiusTransformAnimation.gif" alt="Animated Möbius transformation" width="600">
 </p>
 
-## Project Areas
+## Topics Covered
 
 - [Probability and Statistics](#probability-and-statistics)
 - [Applied Mathematics and Optimization](#applied-mathematics-and-optimization)
@@ -163,7 +163,7 @@ Generates a Sierpiński triangle with the chaos game and a compact iterative imp
 
 ---
 
-## Technology
+## Technologies Used
 
 The notebooks use tools from the scientific Python ecosystem, including:
 
@@ -189,4 +189,4 @@ Activate the environment and install the libraries required by the notebook you 
 
 ## Notes
 
-These notebooks are learning-focused scientific explorations. They are intended to demonstrate concepts, implementations, experimentation, and visualization rather than provide production-ready packages or financial, medical, or scientific advice.
+These notebooks document my exploration of scientific computing concepts through implementation, experimentation, and visualization. They are educational in nature and are not intended to serve as production-ready software packages.
