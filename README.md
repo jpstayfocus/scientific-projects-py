@@ -8,7 +8,7 @@ The notebooks emphasize learning through implementation: simulating data, derivi
   <img src="animations/MobiusTransformAnimation.gif" alt="Animated Möbius transformation" width="600">
 </p>
 
-## Topics Covered
+## Topics Covered in this repo
 
 - [Probability and Statistics](#probability-and-statistics)
 - [Applied Mathematics and Optimization](#applied-mathematics-and-optimization)
