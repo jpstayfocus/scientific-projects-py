@@ -186,7 +186,3 @@ python -m venv .venv
 ```
 
 Activate the environment and install the libraries required by the notebook you want to run. Some notebooks download public datasets or use external data files. A few retain Google Colab upload cells and may need a small path adjustment when run locally.
-
-## Notes
-
-These notebooks document my exploration of scientific computing concepts through implementation, experimentation, and visualization. They are educational in nature and are not intended to serve as production-ready software packages.
